@@ -1,0 +1,28 @@
+{
+  "name": "playwrigth-automacao",
+  "version": "1.0.0",
+  "description": "> Repositório dedicado ao estudo, evolução prática e implementação de arquitetura de testes automatizados (E2E e API) com **Playwright**.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthony-ricardox/Playwrigth-automacao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/anthony-ricardox/Playwrigth-automacao/issues"
+  },
+  "homepage": "https://github.com/anthony-ricardox/Playwrigth-automacao#readme",
+  "devDependencies": {
+    "tsx": "^4.23.13",
+    "typescript": "^7.0.2"
+  }
+}
